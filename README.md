@@ -54,6 +54,8 @@ Concierge and Front Desk Agent
 ## Projects
 
 - **LAPD Crime Data Analysis Project with MongoDB**
+  [a link](https://github.com/bahramkhanlarov/LAPD-Crime-Data-Analysis-Project-with-MongoDB)
+
 ![LAPD Crime Data Analysis Banner](assets/mongodb_photo.jpeg)
 - This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API. By using MongoDB we identified patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
 
