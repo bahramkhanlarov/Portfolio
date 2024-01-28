@@ -47,7 +47,7 @@ Concierge and Front Desk Agent
 
 ## Projects
 
-- **LAPD Crime Data Analysis Project with MongoDB**
+- ##**LAPD Crime Data Analysis Project with MongoDB**
   [project link](https://github.com/bahramkhanlarov/LAPD-Crime-Data-Analysis-Project-with-MongoDB)
 
 <img src="assets/mongodb_photo.jpeg" alt="LAPD Crime Data Analysis Banner" width="600" height="300"/>
