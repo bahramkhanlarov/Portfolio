@@ -17,7 +17,7 @@ University of Applied Sciences of the Grisons
 **BBA in Hospitality & Tourism**  
 Glion Institute of Higher Education
 
-## Technical Skills: Python, R Programming, SQL, Azure, Power BI, Tableau, Apache Hop
+### Technical Skills: Python, R Programming, SQL, Azure, Power BI, Tableau, Apache Hop
 
 
 ## Languages
