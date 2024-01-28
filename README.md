@@ -65,6 +65,7 @@ Concierge and Front Desk Agent
   [project link](https://github.com/bahramkhanlarov/Homegate.ch-scraping-and-data-analysis-with-Pandas)
 
 <img src="assets/scraping.png" alt="Homegate scraper" width="600" height="300"/>
+
 - Using Python scripts, the project demonstrates how to scrape apartment rental listings from the website homegate.ch, specifically for Geneva, Switzerland. After scraping, the data is converted into a Pandas dataframe. The repository also showcases the creation of Choropleth maps using the Altair package to visualize the rental data.
 
 ## Certifications
