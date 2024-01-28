@@ -3,7 +3,7 @@
 Graduate of bachelor from Glion and MBA from FHGR with 8 years of solid working experience in different management roles in Swiss Hospitality Industry. Recently graduated from Master of Science in Applied Information and Data Science in HSLU Lucerne, I am willing to dive in at a granular level to mine and understand complex patterns, trends, and relations in data to surface hidden insight that can help and enable companies to make smarter business decisions and take appropriate actions to gain competitive advantages in the market.
 
 
-# Education
+## Education
 
 ### 2021-2023
 **Master of Science in Applied Information and Data Science**  
@@ -17,7 +17,7 @@ University of Applied Sciences of the Grisons
 **BBA in Hospitality & Tourism**  
 Glion Institute of Higher Education
 
-# Expertise
+## Expertise
 **GitHub:** bkhan1820  
 - Python
 - R Programming
@@ -25,7 +25,7 @@ Glion Institute of Higher Education
 - Apache Hop, Kafka
 - Web Scraping
 
-# Languages
+## Languages
 - English
 - Russian
 - French
@@ -63,7 +63,7 @@ Concierge and Front Desk Agent
 - Microsoft Security, Compliance, and Identity Fundamentals (SC900)
 - DataCamp GitHub Concepts, Introduction to MongoDB, Building Recommendation System In Python
   
- # Contact
+ ## Contact
 **Phone:** +41 79 253 56 99  
 **LinkedIn:** Bahram Khan  
 **Email:** bahram.khanlarov@stud.hslu.ch  
