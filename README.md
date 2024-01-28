@@ -2,13 +2,6 @@
 
 Graduate of bachelor from Glion and MBA from FHGR with 8 years of solid working experience in different management roles in Swiss Hospitality Industry. Recently graduated from Master of Science in Applied Information and Data Science in HSLU Lucerne, I am willing to dive in at a granular level to mine and understand complex patterns, trends, and relations in data to surface hidden insight that can help and enable companies to make smarter business decisions and take appropriate actions to gain competitive advantages in the market.
 
-# Contact
-**Phone:** +41 79 253 56 99  
-**LinkedIn:** Bahram Khan  
-**Email:** bahram.khanlarov@stud.hslu.ch  
-**Address:** Avenue des Alpes 102, 1820 Montreux, Switzerland  
-
-
 
 # Education
 
@@ -69,5 +62,12 @@ Concierge and Front Desk Agent
 - Microsoft Azure Data Fundamentals (DP900)
 - Microsoft Security, Compliance, and Identity Fundamentals (SC900)
 - DataCamp GitHub Concepts, Introduction to MongoDB, Building Recommendation System In Python
+  
+ # Contact
+**Phone:** +41 79 253 56 99  
+**LinkedIn:** Bahram Khan  
+**Email:** bahram.khanlarov@stud.hslu.ch  
+**Address:** Avenue des Alpes 102, 1820 Montreux, Switzerland  
+
 
 
