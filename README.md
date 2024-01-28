@@ -53,7 +53,9 @@ Concierge and Front Desk Agent
 
 ## Projects
 
-- **LAPD Crime Data Analysis Project with MongoDB** - This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API. By using MongoDB we identified patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
+- **LAPD Crime Data Analysis Project with MongoDB**
+![LAPD Crime Data Analysis Banner](assets/mongodb_photo.jpeg)
+- This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API. By using MongoDB we identified patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
 
 - **S&P500 Stock Index Visual Analysis and Prediction** - By using R statistical programming, we presented a comprehensive visual analysis and prediction of the S&P 500 stock index, representing the performance of 500 large-cap publicly traded US companies. The analysis starts with a visual exploration using the MACD indicator. Advanced predictive models, including ARIMA, Prophet, and KNN, were applied to forecast the stock index over a 30-day horizon.
 
