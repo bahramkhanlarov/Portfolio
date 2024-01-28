@@ -18,6 +18,7 @@ University of Applied Sciences of the Grisons
 Glion Institute of Higher Education
 
 ## Expertise
+
 **GitHub:** bkhan1820  
 - Python
 - R Programming
@@ -33,6 +34,7 @@ Glion Institute of Higher Education
 
 
 ## Experience
+
 ### 2019 - 2023
 **Hotel Bon Port, Vaud, Montreux, Switzerland**
 Reservation Manager
@@ -50,6 +52,7 @@ Hotel Director Assistant
 Concierge and Front Desk Agent
 
 ## Projects
+
 - **LAPD Crime Data Analysis Project with MongoDB** - This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API. By using MongoDB we identified patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
 
 - **S&P500 Stock Index Visual Analysis and Prediction** - By using R statistical programming, we presented a comprehensive visual analysis and prediction of the S&P 500 stock index, representing the performance of 500 large-cap publicly traded US companies. The analysis starts with a visual exploration using the MACD indicator. Advanced predictive models, including ARIMA, Prophet, and KNN, were applied to forecast the stock index over a 30-day horizon.
@@ -57,6 +60,7 @@ Concierge and Front Desk Agent
 - **Web Scraping and Visualization of Rental Data in Geneva (Switzerland) with Python** - Using Python scripts, the project demonstrates how to scrape apartment rental listings from the website homegate.ch, specifically for Geneva, Switzerland. After scraping, the data is converted into a Pandas dataframe. The repository also showcases the creation of Choropleth maps using the Altair package to visualize the rental data.
 
 ## Certifications
+
 - Microsoft Azure Data Scientist Associate (DP100)
 - Microsoft Power BI Data Analyst Associate (PL300)
 - Microsoft Azure Data Fundamentals (DP900)
@@ -64,6 +68,7 @@ Concierge and Front Desk Agent
 - DataCamp GitHub Concepts, Introduction to MongoDB, Building Recommendation System In Python
   
  ## Contact
+ 
 **Phone:** +41 79 253 56 99  
 **LinkedIn:** Bahram Khan  
 **Email:** bahram.khanlarov@stud.hslu.ch  
