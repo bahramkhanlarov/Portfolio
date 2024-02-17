@@ -1,5 +1,9 @@
 # Junior Data Analyst
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="bahramkhanlarov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/bahramkhanlarov?trk=profile-badge">Bahram Khanlarov</a></div>
+              
+
 Graduate of bachelor from Glion and MBA from FHGR with 8 years of solid working experience in different management roles in Swiss Hospitality Industry. Recently graduated from Master of Science in Applied Information and Data Science in HSLU Lucerne, I am willing to dive in at a granular level to mine and understand complex patterns, trends, and relations in data to surface hidden insight that can help and enable companies to make smarter business decisions and take appropriate actions to gain competitive advantages in the market.
 
 
